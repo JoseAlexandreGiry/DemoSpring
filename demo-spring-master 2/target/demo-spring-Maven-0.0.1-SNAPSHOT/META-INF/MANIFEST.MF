@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: demoV1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jose
+Implementation-Vendor-Id: com.objis.spring.demo-spring-Maven
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_92
+Main-Class: ${start-class}
+
